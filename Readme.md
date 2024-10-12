@@ -21,8 +21,8 @@ This project involves scraping data from the Redbus website using Selenium, stor
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone <[repository-url](https://github.com/yasararafath-s/Redbus_website_scraping_project.git)>
+    cd <Redbus_website_scraping_project>
     ```
 
 2. **Install dependencies**:
