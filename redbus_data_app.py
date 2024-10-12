@@ -9,8 +9,8 @@ def create_connection():
     try:
         connection = mysql.connector.connect(
             host="localhost",  
-            user="root",
-            password="Pnu@2024",
+            user="User Profile",
+            password="Password",
             database="redbus_data"
         )
         return connection
